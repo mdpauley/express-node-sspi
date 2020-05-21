@@ -1,0 +1,31 @@
+{
+  "name": "express-node-sspi",
+  "version": "1.0.0",
+  "description": "express-node-sspi is a simple NodeJS/ExpressJS node-sspi middleware exposing user sspi details to your application and views.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mdpauley/express-node-sspi.git"
+  },
+  "keywords": [
+    "node-sspi",
+    "sspi",
+    "express",
+    "middleware"
+  ],
+  "author": {
+    "name": "Michael Pauley",
+    "email": "mdpauley@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdpauley/express-node-sspi/issues"
+  },
+  "homepage": "https://github.com/mdpauley/express-node-sspi#readme",
+  "dependencies": {
+    "node-sspi": "^0.2.8"
+  }
+}
