@@ -1,6 +1,6 @@
 {
   "name": "express-node-sspi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "express-node-sspi is a simple NodeJS/ExpressJS node-sspi middleware exposing user sspi details to your application and views.",
   "main": "index.js",
   "scripts": {
